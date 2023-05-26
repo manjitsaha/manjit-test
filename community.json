@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "maheskwari-community",
+  "private_key_id": "09a27a6244019fd83c209f135e99444d298f2d53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8X8r20RewloyO\ndyDEFEPp6ovRHmuVAYtNjMFXM/dKzj+0tusgoHKoSIz11fwBQ3a8XiNe02l25D4W\nb97umafdFARMf1/vphKKSM62FUbi+iAHAweUPi4D/79Zi7JLyr0zLJGaL/3kTCcY\nCdNyZJRySMnEVy1WBtK4nJBaNqccmgNzvY6Joid8EwhKdvFzkFAnyMIsETqSvcU2\nF5odUccJ41u8+5vO/BPT/jS5nbJ1ee/lL2ETnxm1qeu6RT5w5HnUGKFiP9O7VtPA\nqI3ARE+nGpxY6To338dnoblk+3aYQw0PUlNt3siJ2Jkc5l0dI3PmYHCCB1Vkaxz0\nYdOCk/U1AgMBAAECggEAAsnALUsG+LwhtHIa8AwEvU+VZjD3EquFLk6pBetk+5x1\n4OzcKg115Pu96l2Sb0paVYtnJp4mb3YNXTOmrw1jKKiFL8Sq3NcuaxGMzbEe7Xka\nREBNOmp5L+H3KRIiP3Duv/Um6otPTLO72GU81fKbJ93f7qIDr8RGFilrEYrBinDO\nn6j18t89GC9ADSyZIXtihDyEVRhaX8r3PxsN1QxXth/OVAXm1v2qI4KRm5vA6TjK\njVYp0gfRXsxp+8f8Lz7maaKwzTR1EkOJ7xOqj4Nusg0ombe7Z6nX3yuXVof+aMJB\nS4tVuhveTT79i9qgHuCcRcrOdJ7iy+b0+enQn+k4gQKBgQDg147bRqIlIzKxceKK\nhz8sVF3GjGJ8NSAYwG4893iVdBcjM2w4vn5SLt4Ie9kZQ4zgYN7lW/nB+YURv67u\nAoqursun9hDUjS0f6SrU7xhBTtA9YecnVw41ORaV/PJuJYD0MnJVZNoqCVWvYa6u\nqTHhAWps6LFYyWMGC5dkOIyIpQKBgQDWeoK6sg9TQhak2oUDq0HVR0TUI3Xgou+9\n2/t1ZrnZ12BsT3AEWKvoZRIncaoRz9PIwNOb3Te2DgPrWIzSe0KosfEEAcGpexDX\nknNCzGxlkuswSLwabWvST2k5A+xIHiEX3C5N4pfG2eb+GBI2PNsZ6fRde2xPRIgf\nIAEwBXOFUQKBgAJ3evK+6KJ9q121ASZB65iB6HF4MtBoCM0ct1jl4iXJm0NgmgxZ\nUqt2JitzqGMVkaMYjPl5M9lD8ojKUJH95yWZd1SFZ5PdZKRX+4dQhDSbN7+kplOR\nKe+9i5jjqIk60hpbv1NeguI5Lf55lOAHrStpx5AgUWnG89YqJGQOFsSdAoGBAI2w\nS3LItOUc0NbBYYQl/AzI00iN0I7BNT4o+Hr7jSXDafjDlc3ZQl/5fT+/kEnKETAb\navAZ+Xb01VQBoK5gLY5CV2V9P5IWMe8n2as0XxvPLj4sns+an9NFEM9QrySJevVH\nSPO9EOWWCEquXkGkfF4nN38WTVwkewSM4Rv3TfSxAoGBAIb3NwBpZEQQdzLHj4dY\nSKQCJDCfv4tE+5Ns6wmyKzkx7wB5iO3rNEjN1t+NNvECflgts3CbZYmtKvSB/0Zj\nxYMB4Y66vSrBTVQB7cvr8w5I9o68fzNh5HwGSCqZU+opR8/9TNrIVSBoyAFdH/ln\nIgVMyMBmPPzr/ZGrkq+T11nd\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-46for@maheskwari-community.iam.gserviceaccount.com",
+  "client_id": "109870054864764769111",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-46for%40maheskwari-community.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
